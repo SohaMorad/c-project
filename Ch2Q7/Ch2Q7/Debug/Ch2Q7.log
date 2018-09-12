@@ -1,0 +1,5 @@
+﻿  Ch2Q7.cpp
+c:\users\moura\desktop\c++projects\ch2q7\ch2q7\ch2q7.cpp(20): warning C4101: 'cost3': unreferenced local variable
+c:\users\moura\desktop\c++projects\ch2q7\ch2q7\ch2q7.cpp(16): warning C4101: 'cost2': unreferenced local variable
+c:\users\moura\desktop\c++projects\ch2q7\ch2q7\ch2q7.cpp(18): warning C4101: 'price2': unreferenced local variable
+  Ch2Q7.vcxproj -> C:\Users\moura\Desktop\c++projects\Ch2Q7\Debug\Ch2Q7.exe

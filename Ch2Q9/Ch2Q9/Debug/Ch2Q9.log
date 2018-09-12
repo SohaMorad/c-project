@@ -1,0 +1,4 @@
+﻿  Ch2Q9.cpp
+c:\users\moura\desktop\c++projects\ch2q9\ch2q9\ch2q9.cpp(12): warning C4101: 'negt': unreferenced local variable
+c:\users\moura\desktop\c++projects\ch2q9\ch2q9\ch2q9.cpp(11): warning C4101: 'post': unreferenced local variable
+  Ch2Q9.vcxproj -> C:\Users\moura\Desktop\c++projects\Ch2Q9\Debug\Ch2Q9.exe

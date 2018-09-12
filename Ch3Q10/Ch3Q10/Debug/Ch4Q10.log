@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Ch4Q10.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Ch3Q10.cpp
+c:\users\moura\desktop\c++projects\ch3q10\ch4q10\ch3q10.cpp(50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\moura\desktop\c++projects\ch3q10\ch4q10\ch3q10.cpp(58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\moura\desktop\c++projects\ch3q10\ch4q10\ch3q10.cpp(67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\moura\desktop\c++projects\ch3q10\ch4q10\ch3q10.cpp(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\moura\desktop\c++projects\ch3q10\ch4q10\ch3q10.cpp(91): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\moura\desktop\c++projects\ch3q10\ch4q10\ch3q10.cpp(99): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\moura\desktop\c++projects\ch3q10\ch4q10\ch3q10.cpp(107): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\moura\desktop\c++projects\ch3q10\ch4q10\ch3q10.cpp(116): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Ch4Q10.vcxproj -> C:\Users\moura\Desktop\c++projects\Ch3Q10\Debug\Ch3Q10.exe

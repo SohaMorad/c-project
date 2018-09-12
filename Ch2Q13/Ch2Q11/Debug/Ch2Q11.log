@@ -1,0 +1,4 @@
+﻿  Ch2Q13.cpp
+c:\users\moura\desktop\c++projects\ch2q11\ch2q11\ch2q13.cpp(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\moura\desktop\c++projects\ch2q11\ch2q11\ch2q13.cpp(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Ch2Q11.vcxproj -> C:\Users\moura\Desktop\c++projects\Ch2Q11\Debug\Ch2Q11.exe
